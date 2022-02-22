@@ -36,7 +36,11 @@
   </tr>
   <tr>
     <td>www.grupo2.turma914.ifalara.local</td>
-    <td>Linha 2 - Coluna 2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>bd.grupo2.turma914.ifalara.local</td>
+    <td></td>
   </tr>
 </table>
 
