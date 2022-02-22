@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 ## 2. Definições Iniciais
-<h3>2.1 Tabelas de definições de nomes e IPs das VMs</h3>
+<h4>2.1 Tabelas de definições de nomes e IPs das VMs</h4>
 <table border="1">    
   <tr>
     <th>NOME</th>
